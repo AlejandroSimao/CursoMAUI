@@ -1,0 +1,119 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppShoppingCenter
+build_property.ProjectDir = C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Resources/Styles/ExplicitStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Resources.Styles.ExplicitStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\ExplicitStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\ExplicitStyles.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AppShell.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Cinemas/DetailDesktopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Cinemas.DetailDesktopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cinemas\DetailDesktopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cinemas\DetailDesktopPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Cinemas/DetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Cinemas.DetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cinemas\DetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cinemas\DetailPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Cinemas/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Cinemas.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cinemas\ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cinemas\ListPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Restaurants/DetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Restaurants.DetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Restaurants\DetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Restaurants\DetailPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Restaurants/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Restaurants.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Restaurants\ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Restaurants\ListPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Stores/DetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Stores.DetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Stores\DetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Stores\DetailPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Stores/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Stores.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Stores\ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Stores\ListPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Tickets/CameraPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Tickets.CameraPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tickets\CameraPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tickets\CameraPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Tickets/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Tickets.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tickets\ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tickets\ListPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Tickets/PayPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Tickets.PayPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tickets\PayPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tickets\PayPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Tickets/ResultPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Tickets.ResultPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tickets\ResultPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tickets\ResultPage.xaml
+
+[C:/Users/alerr/Source/Repos/CursoMAUI/ProjetosMAUI/AppShoppingCenter/Views/Tickets/ScanPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppShoppingCenter.Views.Tickets.ScanPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tickets\ScanPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tickets\ScanPage.xaml

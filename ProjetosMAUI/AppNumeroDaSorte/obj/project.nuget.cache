@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMjl4yWbromnkX8k7aAADxfSzlwIBOSE2iLrxejI0CF1o7OGZ/hnGC5FvpQ0SF5iuUpYjEJE/8FgJDX1GIJfQw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alerr\\Source\\Repos\\CursoMAUI\\ProjetosMAUI\\AppNumeroDaSorte\\AppNumeroDaSorte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alerr\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "A versão da plataforma não está presente para uma ou mais estruturas de destino, embora elas tenham uma plataforma especificada: net6.0-ios, net6.0-maccatalyst"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\bin\Debug\net7.0\AppShoppingCenter.Models.deps.json
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\bin\Debug\net7.0\AppShoppingCenter.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\bin\Debug\net7.0\AppShoppingCenter.Models.pdb
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.AssemblyInfoInputs.cache
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.AssemblyInfo.cs
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.csproj.CoreCompileInputs.cache
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.sourcelink.json
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\refint\AppShoppingCenter.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\AppShoppingCenter.Models.pdb
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppShoppingCenter.Models\obj\Debug\net7.0\ref\AppShoppingCenter.Models.dll

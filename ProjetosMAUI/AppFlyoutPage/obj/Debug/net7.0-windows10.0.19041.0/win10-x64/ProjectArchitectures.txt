@@ -1,0 +1,1 @@
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppFlyoutPage\AppFlyoutPage.csproj;x64

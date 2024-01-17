@@ -1,0 +1,12 @@
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\bin\Debug\net7.0\AppTask.Models.deps.json
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\bin\Debug\net7.0\AppTask.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\bin\Debug\net7.0\AppTask.Models.pdb
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.AssemblyInfoInputs.cache
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.AssemblyInfo.cs
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.csproj.CoreCompileInputs.cache
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.sourcelink.json
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\refint\AppTask.Models.dll
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\AppTask.Models.pdb
+C:\Users\alerr\Source\Repos\CursoMAUI\ProjetosMAUI\AppTask.Models\obj\Debug\net7.0\ref\AppTask.Models.dll
