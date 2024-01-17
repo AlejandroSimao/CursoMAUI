@@ -17,4 +17,4 @@ Neste curso os seguintes temas são abordados:
 - CommunityTookit.MAUI.
 - Estilos, mudança de estado, tema claro e escuro.
 - Acessibilidade.
-- Integração com API + Sincronização de Dados Cliente-Servidor (Novo)
+- Integração com API + Sincronização de Dados Cliente-Servidor
